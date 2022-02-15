@@ -1,5 +1,5 @@
 # System.out.println("Hello World") 👋  
-## What's up? I'm Gabrielly Assuncao 
+## What's up? 😃 I'm Gabrielly Assuncao 
 
 
 <img align="right" width="160"  src="https://user-images.githubusercontent.com/86726332/154110059-4b561f65-7adf-4d06-9ff0-ff967549b38f.gif" />
